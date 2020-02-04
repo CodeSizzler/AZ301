@@ -1,5 +1,12 @@
 <h1>Implementing and Managing Azure Web Apps</h1>
 
+<h2>Introduction</h2>
+<p>In this article you are going to learn about how to create and configure your Web app using Azure portal.</p>
+
+<h2>Pre-requisites</h2>
+<p>To perform this demo, you must have valid Azure subscription and some knowledge on Azure Web app.</p>
+
+<h2>Demo</h2>
 <p>Log-in with Azure portal with your account using www.portal.azure.com. In Azure portal click on Create a new resource>Web>Web app.</p>
 <img src="https://codesizzlergit.blob.core.windows.net/az301-01/01.jpg"/>
 <p>Create a web app with following configuration and click on create.</p>
