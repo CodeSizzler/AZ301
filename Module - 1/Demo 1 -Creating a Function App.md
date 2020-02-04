@@ -1,5 +1,12 @@
 <h1>Creating a Function App</h1>
 
+<h2>Introduction</h2>
+<p>In this article you are going to learn about how to create and configure your Function app using Azure portal.</p>
+
+<h2>Pre-requisites</h2>
+<p>To perform this demo, you must have valid Azure subscription and some knowledge on Azure Function app.</p>
+
+<h2>Demo</h2>
 <p>1.Sign in to the Azure portal using https://portal.azure.com.</p>
 <p>2.Select Create new resource>Compute > Function App on the top left of the screen and enter the details required.For resource group select create new and create a new resource group. Then click on the Create option.</p>
 <img src="https://codesizzlergit.blob.core.windows.net/az301-06/01.jpg"/>
