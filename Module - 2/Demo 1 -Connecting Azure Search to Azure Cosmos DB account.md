@@ -1,8 +1,10 @@
 <h1>Connecting Azure Search to Azure Cosmos DB account</h1>
 
 <h2>Introduction</h2>
+<p>In this article you are going to learn about how to cconnect the Azure Search with the exixting or new Azure Cosmos DB account.</p>
 
 <h2>Pre-requisites</h2>
+<p>To perform this demo, you must hvae valid Azure subscription and some knowledge on Azure Cosmos DB, Azure Search.</p>
 
 <h2>Demo</h2>
 <p>Log-in with you Azure account using www.portal.azure.com. In Azure portal click on create a new resource and search for Cosmos DB and use the search result to create a Cosmos DB account with the following configurations.</p>
