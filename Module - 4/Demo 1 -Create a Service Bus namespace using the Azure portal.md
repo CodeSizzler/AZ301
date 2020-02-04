@@ -1,5 +1,12 @@
 <h1>Create a Service Bus namespace using the Azure portal</h1>
 
+<h2>Introduction</h2>
+<p>In this article you are going to learn about how to deploy a Service Bus name space using Azure portal.</p>
+
+<h2>Pre-requisites</h2>
+<p>To perforrm this demo, you must have valid Azure subscription and some basic knowledge on Azure Service Bus.</p>
+
+<h2>Demo</h2>
 <p>Log-in with Azure portal with your account using www.portal.azure.com. In Azure portal click on Create a new resource>Service bus.</p>
 <img src="https://codesizzlergit.blob.core.windows.net/az301-09/01.jpg"/>
 <p>Create a service bus with the configuration and on create the namespace blade, perform the following:</p>
